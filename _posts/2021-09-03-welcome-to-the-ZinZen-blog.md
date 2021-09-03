@@ -17,4 +17,6 @@ My new user immediately made several requests:
 
 The last one is tricky... and I'm still working on it.  
 Since the automagic calendar can decide to split big goals into small chunks on your calendar, the calendar view is not identical to the goal list.  
-To be continued...
+To be continued...  
+  
+PS: All user requests will be added as issues here: https://github.com/tijlleenders/github-pages-with-jekyll/issues?q=is%3Aissue+
