@@ -35,3 +35,7 @@ Not on weekends? Just type 'not on weekends' or 'except weekends' and click to c
 | Sa          | 'on Saturday', 'next Saturday', 'every Saturday'                      |
 | 5m          | Takes 5 minutes                                                       |
 | zz          | ZinZen actions like 'Move here', 'Move to', 'Share', etc              |
+
+
+Have an idea to improve ZinZen?  
+Please [contact us](https://zinzen.me/contact.html).
