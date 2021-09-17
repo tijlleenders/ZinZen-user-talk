@@ -1,4 +1,3 @@
-## Making ZinZen simple again
 Most people didn't know what to do in the first versions of ZinZen.  
 The menu's were just too complex.  
 
