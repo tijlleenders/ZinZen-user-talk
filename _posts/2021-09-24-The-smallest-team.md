@@ -22,3 +22,8 @@ Specifically, we'll be digging into the following (sometimes problematic) expect
   - when to sow, harvest, prune the trees, tips & tricks...
 - Kids responsibilities
   - school schedules, activities, play dates, ...
+
+
+
+Have an idea to improve ZinZen?  
+Please [contact us](https://zinzen.me/contact.html).

@@ -20,3 +20,7 @@ Advertisers would even refuse to pay. The best ad will be shown to you anyway!
   
 Hopefully, this will get us to open standards for decentrally defining, sharing and discovering better ways to realize our goals.  
 As individuals - and as a species!
+
+
+Have an idea to improve ZinZen?  
+Please [contact us](https://zinzen.me/contact.html).
