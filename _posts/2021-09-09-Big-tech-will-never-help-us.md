@@ -1,8 +1,7 @@
-*Suggesting Todo's is the next multi-billion dollar business* according to [this Harvard Business Review article](https://hbr.org/2013/10/reinventing-the-to-do-list-a-multi-billion-dollar-opportunity).
-  
+*Suggesting Todo's is the next multi-billion dollar business* according to [this Harvard Business Review article](https://hbr.org/2013/10/reinventing-the-to-do-list-a-multi-billion-dollar-opportunity).  
 Ten years have passed...  
   
-## *Big tech is still not suggesting Todo's...*  
+*Big tech is still not suggesting Todo's...*  
 Why not?  
 Because free e-mail, free media, free phone systems, and free browsers are more profitable.  
 Big tech sells ads by auction. Think about it for a second. Your valuable time ... is sold to the highest bidder.  
