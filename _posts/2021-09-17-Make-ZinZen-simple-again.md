@@ -1,5 +1,5 @@
 Most people didn't know what to do in the first versions of ZinZen.  
-The menu's were just too complex.  Read more...
+The menu's were just too complex.  [Read more...](https://blog.zinzen.me/2021/09/17/Make-ZinZen-simple-again.html)
 
 That is about to change in the coming weeks...  
 

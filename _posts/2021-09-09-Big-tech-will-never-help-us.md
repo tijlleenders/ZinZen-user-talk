@@ -1,5 +1,5 @@
 *Suggesting Todo's is the next multi-billion dollar business* according to [this Harvard Business Review article](https://hbr.org/2013/10/reinventing-the-to-do-list-a-multi-billion-dollar-opportunity).  
-Ten years have passed...  Read more...
+Ten years have passed...  [Read more...](https://blog.zinzen.me/2021/09/09/Big-tech-will-never-help-us.html)
   
 *Big tech is still not suggesting Todo's...*  
 Why not?  
