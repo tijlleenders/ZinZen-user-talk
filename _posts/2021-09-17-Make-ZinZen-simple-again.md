@@ -16,7 +16,11 @@ So we removed it, en passant making the login interface a lot cleaner and cleare
 ## Just the text box, please (in progress)
 Configuring all the scheduling for a goal was just too complex. You had a menu for the start date, the finish date, the times of days of the week, the timezone, the duration, the min-max per day/week, the min/max size... Pfewww! Forget it man!  
 
+![image-title-here](/img/complex_time_settings_menu.PNG)
+
 Now, you just type what you want naturally. Not a single menu.  
+
+![image-title-here](/img/simple_menu.PNG)
 
 Type "Walk 30m daily" and you will get two suggested buttons:
 - Takes: 30 minutes
