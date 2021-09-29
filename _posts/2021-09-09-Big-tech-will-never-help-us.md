@@ -2,7 +2,7 @@
   
 Ten years have passed...  
   
-*Big tech is still not suggesting Todo's...*  
+## *Big tech is still not suggesting Todo's...*  
 Why not?  
 Because free e-mail, free media, free phone systems, and free browsers are more profitable.  
 Big tech sells ads by auction. Think about it for a second. Your valuable time ... is sold to the highest bidder.  
