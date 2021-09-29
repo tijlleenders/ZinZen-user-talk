@@ -1,5 +1,5 @@
 You can happily use ZinZen all by yourself - without interaction with anyone else.  
-It's a choice only you can make. But we're really excited about collaboration!    
+It's a choice only you can make. But we're really excited about collaboration! Read more...   
 
 Share your goals and your best practices for achieving them.  
 The universe will thank you.
