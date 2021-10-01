@@ -1,5 +1,5 @@
 If collaboration is theoretically better - why is competition everywhere?  
-Can it change? Does it have to? [Read more...](https://blog.zinzen.me/2021/10/01/Collaboration-IS-competition.html)
+Can it change? Does it have to? [Read more...](https://blog.zinzen.me/2021/10/01/Collaboration-is-competition.html)
 
 In theory, collaboration is more effective and more efficient than competition. Cavemen understood it. Investment bankers understand it. When you combine resources and skills you stand a better fighting chance. Logical, right? Growth is good for you.
 
