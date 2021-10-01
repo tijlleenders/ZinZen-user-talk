@@ -20,11 +20,11 @@ Sure, we've done some experiments beyond traditional identities to try to change
 
 "No, seriously - there must be a better way. There is too much human suffering at the moment."
 
-Actually, human suffering has declined steadily - relatively speaking. So we're on a good trajectory. Things will just keep getting better overall. It's horrible when it happens - but the wars we have and the injustices of inequality are just temporary differences that will get smoothed out over generations of evolution to a better minimum.
+Actually, human suffering has declined steadily - relatively speaking at least and more often than not also in absolute numbers. So we're on a good trajectory. Things will just keep getting better overall. It's horrible when it happens - but the wars we have and the injustices of inequality are just temporary differences that will get smoothed out over generations of evolution to a better minimum.
 
 "That's outrageous! I don't agree and you are an awful person.  
 ...But even supposing you're right: The planet is being consumed to a pulp.  
-There will be nothing left."
+Biodiversity and other valuable resources are being destroyed. There will be nothing left."
 
 Hmm... You make a point. Maybe something needs to change.  
 We could hope technology saves us? By inventing some magical new way of doing things.  
