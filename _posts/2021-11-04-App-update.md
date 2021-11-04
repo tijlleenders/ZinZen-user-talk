@@ -37,7 +37,7 @@ It has garbage collection. C & Rust don't.
 - No downsides to Rust? 
   - Sure there are.  
   It is relatively young. Developers/libraries are few... But that is changing!  
-```rust_developer += 1```  
+```rust_developers.count += 1```  
 ```++``` can be confusing and is not supported by Rust. 😄
 
 Have an idea to improve ZinZen?  
