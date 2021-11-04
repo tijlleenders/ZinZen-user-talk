@@ -29,6 +29,7 @@ ZinZen doesn't do much yet - but your feedback is valuable!
   - Rust has built-in package management and formatting.
   - Rust has a unified build system that works nicely for WASM (both originated at Mozilla).
   - Rust has a powerful type system.
+  - Rust works with traditional tools: perf/gdb/lldb/valgrind/LLVM sanitizers
   - Rust has backwards compatibility of releases.
   - Rust uses composition. It doesn't even support inheritance.  
 - Why not Go?  
