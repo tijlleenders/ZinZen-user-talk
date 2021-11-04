@@ -1,4 +1,4 @@
-Here's what we've been up to the last two weeks.  
+Here's what we've been up to the last two weeks (including one week vacation).  
 [Read more...](https://blog.zinzen.me/2021/11/04/App-update.html)   
 
 First off, a big 🙏**THANK YOU**🙏 for the 💪 work done by all the testers and interviewees!  
