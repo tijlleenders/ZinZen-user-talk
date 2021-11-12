@@ -10,3 +10,6 @@ It's time to break away from the proven formula of industrialization we've becom
 ZinZen doesn't have all the facts - but we're doing it. We don't have the maps - but we're finding a path.  
 ZinZen aims to catalyze individual purpose. Through individual purpose - we'll support human purpose.  
 Expect surprising progress 📈😮 towards purpose - every quarter.
+
+Have an idea to improve ZinZen?  
+Please [contact us](https://zinzen.me/contact.html).
