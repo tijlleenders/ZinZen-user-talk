@@ -18,7 +18,7 @@ ZinZen doesn't do much yet - but your feedback is valuable!
 ## Invisible updates
 - We're switching to the Rust programming language for the scheduler. Why?
   - The proof-of-concept in C has taught us that it is hard to write, read and reason about C.
-- Rust is just as fast as C, and has a few added benefits:
+- Rust is just as fast as C, with zero-cost abstractions, and has a few added benefits:
   - Rust is safe by default. This will save us a lot of debugging/patches. 70% of Microsoft patches are related to memory issues. Rust avoids this. In the rare cases you actually require it, you can mark the unsafe piece of code as unsafe. This is where you'll look 🕵🏽‍♂️ when issues happen.  
   But in principle:
     - No segfaults
