@@ -39,4 +39,4 @@ Have an idea to improve ZinZen?
 Please [contact us](https://zinzen.me/contact.html).
 <br />
 <br />
-PS: The Digital Development Principles are CC BY-SA licensed.
+PS: The Digital Development Principles are [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) licensed.
