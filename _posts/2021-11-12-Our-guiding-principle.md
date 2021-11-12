@@ -1,4 +1,4 @@
-Many companies write down guiding princples. Google is famous for "Don't 😈be evil😈".  
+Many companies write down guiding princples. Google is (in)famous for "Don't 😈be evil😈".  
 ZinZen chooses "😇Be good😇". What does that mean in practice? [Read more...](https://blog.zinzen.me/2021/11/12/Our-guiding-principle.html)   
 
 Whilst Google's negative motto "Don't be evil" was a way of saying 'you <i>can</i> make money without being evil' - why they didn't formulate it in a positive way? Positive formulations for motto's and goals are much more useful in practice. Google did try this in 2015 by adopting "Do the right thing". But this is even more vague as it leaves 'the right thing' open to interpretation... 'Right' for the bottom line - or for humanity?    
