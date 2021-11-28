@@ -7,13 +7,13 @@ Again, a big 🙏**THANK YOU**🙏 to everyone supplying feedback!
 - **Multi-language**
   - Next to the default English, we now have Dutch!
   - More languages will follow since the basics are now in place.  
-  <img src="../img/language.PNG" alt="drawing" width="200"/>  
+  <img src="/img/language.PNG" alt="drawing" width="200"/>  
 - **Feelings💖**
   - Basic registering of feelings is possible. Track your emotions and get insights.  
-  <img src="../img/feelings_add.PNG" alt="drawing" width="200"/>  
+  <img src="/img/feelings_add.PNG" alt="drawing" width="200"/>  
 - **Top menu moved**
   - The top menu buttons are now consistent with ZinZen list navigation.  
-  <img src="../img/top_menu_moved.jpg" alt="drawing" width="200"/>  
+  <img src="/img/top_menu_moved.jpg" alt="drawing" width="200"/>  
 
 
 ## Invisible updates
