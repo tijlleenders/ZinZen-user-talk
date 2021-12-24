@@ -6,15 +6,15 @@ First, a big 🙏**THANK YOU**🙏 to everyone supplying feedback!
 ## Visible updates 🎁🎁🎁
 - **Basic scheduling is here!**
   - 1: You edit your goals with durations, optional specific times and 'daily' repetions:  
-  <img src="/img/edit_goal_for_first_calendar.PNG" alt="drawing" width="200"/>  
+  <img src="/img/edit_goal_for_first_calendar.PNG" alt="drawing" width="400"/>  
   Notice, the top-menu buttons, and the badges of 'commands' that are active for your goal.  
   To change the color, just press the color badge. Simple!  
   - 2: While navigating goals, the scheduling info is in the sub-title:  
-  <img src="/img/first_calendar_and_top_menu_buttons.PNG" alt="drawing" width="200"/>  
+  <img src="/img/first_calendar_and_top_menu_buttons.PNG" alt="drawing" width="400"/>  
   - 3: ZinZen takes care of your calendar:  
-  <img src="/img/first_calendar_view.PNG" alt="drawing" width="200"/>  
+  <img src="/img/first_calendar_view.PNG" alt="drawing" width="400"/>  
   - 3: Complete, push or skip right from the calendar:  
-  <img src="/img/edit_slot.PNG" alt="drawing" width="200"/>  
+  <img src="/img/edit_slot.PNG" alt="drawing" width="400"/>  
   *You manage your agenda, and let ZinZen make the calendar!*
 <br />  
 - **The project is open sourced**
