@@ -11,7 +11,7 @@ I was trying to convince investors to invest in a world without them... in the t
 Meanwhile I was trying to code up a working version of the app without the skills necessary to do so. Blood, sweat and tears are not moving the needle.  
 
 The solution:  
-We can get a lot more done with me working as a freelance architect. I use the income from that job to finance real developers in countries where wages are comparatively lower.   
+We can get a lot more done with everyone working their strengths: me as a freelance architect and Mallika and Wilfried as professional developers.   
   
 ## A warm welcome and good luck to Mallika and Wilfried! 
 <br />
