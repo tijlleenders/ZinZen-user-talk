@@ -1,5 +1,5 @@
 Finding investors for a non-extractive paradigm is hard.  
-So I'll finance ZinZen myself. [Read more...](https://blog.zinzen.me/2022/02/05/Autofinancing.html)   
+So I'll finance ZinZen myself. [Read more...](https://blog.zinzen.me/2022/02/04/Autofinancing.html)   
 
  
 
