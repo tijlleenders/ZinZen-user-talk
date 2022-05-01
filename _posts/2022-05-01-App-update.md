@@ -1,4 +1,5 @@
-Still here! This is what happened the last three months.  
+Still here!  
+This is what happened the last three months.
 [Read more...](https://blog.zinzen.me/2022/05/01/App-update.html)   
 
 A big 🙏**THANK YOU**🙏 for being patient - we're getting there!  
