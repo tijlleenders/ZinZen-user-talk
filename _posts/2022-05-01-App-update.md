@@ -13,7 +13,7 @@ A big 🙏**THANK YOU**🙏 for being patient - we're getting there!
 
 - **First ever walk-in contributor**  
 Also special thanks to [ashiquemushtaq](https://github.com/ashiquemushtaq)!  
-He found the ZinZen repo somehow, starred it, and fixed an issue.  🙏**Thanks!**  
+He found the ZinZen® repo somehow, starred it, and fixed an issue.  🙏**Thanks!**  
 
 ## Invisible updates
 - A warm welcome to our new contributors:
@@ -24,5 +24,5 @@ He found the ZinZen repo somehow, starred it, and fixed an issue.  🙏**Thanks!
 <br />
 <br />
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

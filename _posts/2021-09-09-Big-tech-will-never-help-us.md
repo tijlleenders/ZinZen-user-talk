@@ -10,9 +10,9 @@ Advertisers would even refuse to pay. The best ad will be shown to you anyway!
   
 ...crickets...  
   
-*ZinZen provides an alternative:* social privacy-friendly Todo suggestions - by a company that chooses people over profits, enforced by law.  
+*ZinZen® provides an alternative:* social privacy-friendly Todo suggestions - by a company that chooses people over profits, enforced by law.  
 1. Make your goals and priorities explicit.  
-2. Share them with ZinZen and others. Transparency about shared goals is where trust and cooperation begins.  
+2. Share them with ZinZen® and others. Transparency about shared goals is where trust and cooperation begins.  
 3. Watch how your calendar automagically fills up with prioritized, realistic and attainable next best actions.  
 4. Enjoy the moment. Focus. Play. Your calendar knows the way.  
 5. Share what worked for you. Help others choose their path.  
@@ -21,5 +21,5 @@ Hopefully, this will get us to open standards for decentrally defining, sharing 
 As individuals - and as a species!
 
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

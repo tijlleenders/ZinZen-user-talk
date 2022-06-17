@@ -7,9 +7,9 @@ Our lives are driven by markets. People - and increasingly machines made by peop
 
 It's time to break away from the proven formula of industrialization we've become addicted to. 😱 Cold turkey 😱. Profit orientation is good - but not good enough. It sounds naive - but to go beyond what we have today - sustained "unprofitable" investments towards a well-defined purpose are needed. Are you still there? ... :) Real value is found by wandering into the unknown with determination and curiosity. Let's embrace what we can't predict. Let's be true to human nature. Let's explore and break boundaries. Let's work together and bet on each other. Let's optimize people over profit - whatever the cost. Put human needs at the top and don't close our eyes for convenience. Period. All the rest is just consequence. Then - and only then - will be the appropriate time to figure out how to make for-purpose companies sustainable. Value precedes vitality. Experimentation precedes experience. We'll stop outsourcing innovation to the competitive market. We'll share patents to further common purposes. We'll stop leaving a mess of externalities for non-profits to drown in. Build innovation into the fabric of society and you get it all! 
 
-ZinZen doesn't have all the facts - but we're doing it. We don't have the maps - but we're finding a path.  
-ZinZen aims to catalyze individual purpose. Through individual purpose - we'll support human purpose.  
+ZinZen® doesn't have all the facts - but we're doing it. We don't have the maps - but we're finding a path.  
+ZinZen® aims to catalyze individual purpose. Through individual purpose - we'll support human purpose.  
 Expect surprising progress 📈😮 towards purpose - every quarter.
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

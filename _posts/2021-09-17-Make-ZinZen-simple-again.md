@@ -4,8 +4,8 @@ The menu's were just too complex.  [Read more...](https://blog.zinzen.me/2021/09
 That is about to change in the coming weeks...  
 
 ## No more login wall (done)
-You now don't have to log in to see ZinZen.me in action.  
-By default you get my public profile, which gives you a taste of what is possible with your own account. Click around in the ZinZen roadmap, or check out what other stuff I like to do with my life. Maybe even contribute anonymously... 
+You now don't have to log in to see ZinZen®.me in action.  
+By default you get my public profile, which gives you a taste of what is possible with your own account. Click around in the ZinZen® roadmap, or check out what other stuff I like to do with my life. Maybe even contribute anonymously... 
 
 Then when you're convinced it is worth trying - you can create an (anonymous) login for yourself.
 
@@ -29,7 +29,7 @@ Type "Walk 30m daily" and you will get two suggested buttons:
 Tap them if you want to 'enable' them - and your goal "Walk" is scheduled for 30 mins daily.  
 Not on weekends? Just type 'not on weekends' or 'except weekends' and click to confirm.
 
-| You type... | ZinZen suggests                                                       |
+| You type... | ZinZen® suggests                                                       |
 | ----------- | --------------------------------------------------------------------- |
 | Ca          | Call ... + will suggest people                                        |
 | Da          | Every day                                                             |
@@ -38,8 +38,8 @@ Not on weekends? Just type 'not on weekends' or 'except weekends' and click to c
 | De          | Delete goal                                                           |
 | Sa          | 'on Saturday', 'next Saturday', 'every Saturday'                      |
 | 5m          | Takes 5 minutes                                                       |
-| zz          | ZinZen actions like 'Move here', 'Move to', 'Share', etc              |
+| zz          | ZinZen® actions like 'Move here', 'Move to', 'Share', etc              |
 
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

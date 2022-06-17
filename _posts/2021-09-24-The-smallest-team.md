@@ -1,4 +1,4 @@
-You can happily use ZinZen all by yourself - without interaction with anyone else.  
+You can happily use ZinZen® all by yourself - without interaction with anyone else.  
 It's a choice only you can make. But we're really excited about collaboration! [Read more...](https://blog.zinzen.me/2021/09/24/The-smallest-team.html)   
 
 Share your goals and your best practices for achieving them.  
@@ -25,5 +25,5 @@ Specifically, we'll be digging into the following (sometimes problematic) expect
 
 
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

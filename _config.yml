@@ -1,9 +1,9 @@
-title: ZinZen blog
+title: ZinZen® blog
 author: Tijl Leenders
 email: tijl.leenders@gmail.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  ZinZen purpose planner blog
+  ZinZen® purpose planner blog
 
 # social links
 github_username:  tijlleenders # DO NOT include the @ character, or else the build will fail!

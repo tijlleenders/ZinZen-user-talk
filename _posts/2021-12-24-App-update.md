@@ -11,11 +11,11 @@ First, a big 🙏**THANK YOU**🙏 to everyone supplying feedback!
   To change the color, just press the color badge. Simple!  
   - 2: While navigating goals, the scheduling info is in the sub-title:  
   <img src="/img/first_calendar_and_top_menu_buttons.PNG" alt="drawing" width="400"/>  
-  - 3: ZinZen takes care of your calendar:  
+  - 3: ZinZen® takes care of your calendar:  
   <img src="/img/first_calendar_view.PNG" alt="drawing" width="400"/>  
   - 3: Complete, push or skip right from the calendar:  
   <img src="/img/edit_slot.PNG" alt="drawing" width="400"/>  
-  *You manage your agenda, and let ZinZen make the calendar!*
+  *You manage your agenda, and let ZinZen® make the calendar!*
 <br />  
 - **The project is open sourced**
   - You can find the app written in javascript [here](https://github.com/tijlleenders/ZinZen)  
@@ -35,5 +35,5 @@ First, a big 🙏**THANK YOU**🙏 to everyone supplying feedback!
 <br />
 <br />
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

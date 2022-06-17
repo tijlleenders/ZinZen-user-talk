@@ -12,7 +12,7 @@ Again, a big 🙏**THANK YOU**🙏 to everyone supplying feedback!
   - Basic registering of feelings is possible. Track your emotions and get insights.  
   <img src="/img/feelings_add.PNG" alt="drawing" width="200"/>  
 - **Top menu moved**
-  - The top menu buttons are now consistent with ZinZen list navigation.  
+  - The top menu buttons are now consistent with ZinZen® list navigation.  
   <img src="/img/top_menu_moved.jpg" alt="drawing" width="200"/>  
 
 
@@ -25,5 +25,5 @@ Again, a big 🙏**THANK YOU**🙏 to everyone supplying feedback!
 <br />
 <br />
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

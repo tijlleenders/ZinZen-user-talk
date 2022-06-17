@@ -19,12 +19,12 @@ It doesn't change the loading time, but makes the wait less annoying / obvious.
 - Faster scheduler, run locally
   - We're re-writing the scheduler in C to make it faster. You'll see it soon.
   - It will be run in your browser to make it even faster (no communication to the cloud necessary).
-  - This allows us to offer ZinZen at a lower price...
-  - ...and this brings ZinZen one step closer to 100% private offline use!
+  - This allows us to offer ZinZen® at a lower price...
+  - ...and this brings ZinZen® one step closer to 100% private offline use!
 - Test suites
   - We're writing lots of tests (before we implement).  
 This will not improve the app as of today, but will make anything we do from here more effective and efficient.
 
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

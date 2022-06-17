@@ -4,7 +4,7 @@ ZinZen chooses "😇Be good😇". What does that mean in practice? [Read more...
 Whilst Google's negative motto "Don't be evil" was a way of saying 'you <i>can</i> make money without being evil' - why they didn't formulate it in a positive way? Positive formulations for motto's and goals are much more useful in practice. Google did try this in 2015 by adopting "Do the right thing". But this is even more vague as it leaves 'the right thing' open to interpretation... 'Right' for the bottom line - or for humanity?    
 
 It's weird. The obvious choice would be a simple "Be good".  
-Anyway - ZinZen, unlike Google, has no problem choosing "Be good" as a guiding principle.  
+Anyway - ZinZen®, unlike Google, has no problem choosing "Be good" as a guiding principle.  
 But what does that mean in practice?  
 
 Rather than re-inventing the wheel - we turned to the United Nations and the community effort of more than 500 individuals representing over 100 organizations working in international development. You can read [the full back-story](https://digitalprinciples.org/about/) and [detailed principles and what actions they can be broken down to online](https://digitalprinciples.org/principles/) - as they are constantly evolving.  
@@ -32,10 +32,10 @@ Here's a quick summary:
   Being collaborative means sharing information, insights, strategies and resources across projects, organizations and sectors, leading to increased efficiency and impact.
 <br />
 <br />
-These principles will be broken down into concrete actions 💪 using the ZinZen methodology.  
+These principles will be broken down into concrete actions 💪 using the ZinZen® methodology.  
 Everything will be available online - in the open. 🤗
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).
 <br />
 <br />

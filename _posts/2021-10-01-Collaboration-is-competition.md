@@ -35,5 +35,5 @@ Or taking us to the next planet to consume?
 I need proof of something better - that just needs time to grow."
 <br>
 
-We're working on it. ZinZen is not only about individual goals.  
-There's a bigger picture. But as with all paradigm shifts - we cannot predict or explain it just yet... **It is our hope that the emergent properties of the ZinZen ecosystem will help us rise to the occasion of swarming around big hairy humanity-level goals, finding solutions in the open, and transforming those into everyday actions people can take by themselves to influence our collective future.**
+We're working on it. ZinZen® is not only about individual goals.  
+There's a bigger picture. But as with all paradigm shifts - we cannot predict or explain it just yet... **It is our hope that the emergent properties of the ZinZen® ecosystem will help us rise to the occasion of swarming around big hairy humanity-level goals, finding solutions in the open, and transforming those into everyday actions people can take by themselves to influence our collective future.**

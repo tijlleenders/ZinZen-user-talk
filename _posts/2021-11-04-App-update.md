@@ -2,7 +2,7 @@ Here's what we've been up to the last two weeks (including one week vacation).
 [Read more...](https://blog.zinzen.me/2021/11/04/App-update.html)   
 
 First off, a big 🙏**THANK YOU**🙏 for the 💪 work done by all the testers and interviewees!  
-ZinZen doesn't do much yet - but your feedback is valuable!
+ZinZen® doesn't do much yet - but your feedback is valuable!
 
 ## Visible updates
 - **✨Offline-first✨ is here!**
@@ -40,5 +40,5 @@ It has garbage collection. C & Rust don't.
 ```rust_developers.count += 1```  
 ```++``` can be confusing and is not supported by Rust. 😄
 
-Have an idea to improve ZinZen?  
+Have an idea to improve ZinZen®?  
 Please [contact us](https://zinzen.me/contact.html).

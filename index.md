@@ -1,5 +1,5 @@
 ---
-title: "ZinZen blog"
+title: "ZinZen® blog"
 ---
 
-Hi! Welcome to the ZinZen journey.
+Hi! Welcome to the ZinZen® journey.
