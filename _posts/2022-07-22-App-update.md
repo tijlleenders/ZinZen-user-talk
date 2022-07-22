@@ -10,7 +10,7 @@ This is what happened the last month.
 You can see your daily schedule - with a color-coded summary:  
 <img src="/img/my_time.PNG" alt="my-time" width="400"/>  
 - **Add and edit unlimited (sub)goals! 🥳**  
-<img src="/img/add_edit_goals.PNG" alt="add-edit-goals" width="400"/>  
+<img src="/img/add_edit_goal.PNG" alt="add-edit-goals" width="400"/>  
 
 - Created sharing menu  
 <img src="/img/sharing_menu.PNG" alt="sharing-menu" width="400"/>  
