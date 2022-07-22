@@ -1,4 +1,4 @@
-Still going strong!  
+Time flies!  
 This is what happened the last month.
 [Read more...](https://blog.zinzen.me/2022/07/22/App-update.html)   
 
