@@ -24,7 +24,7 @@ Very handy for a shopping 🛒 or a holiday packing list!✈️🌴⛱️
 🙏Thanks [Mallika](https://github.com/mallikarai05) & [Tushar](https://github.com/Tushar-4781)!! 🙏
   - Update button now a checkmark and moved to topright position
   - Added a 'color' tag that allows you to change colors  
-    <img src="/img/update_checkmark.gif" alt="update-checkmark" width="400"/>  
+    <img src="/img/update_checkmark.PNG" alt="update-checkmark" width="400"/>  
   - Change expand goal icon to < instead of >
   - Allow goals to be added without duration
   - New color palette that works for dark 🕶️🌒 and light ☀️theme
