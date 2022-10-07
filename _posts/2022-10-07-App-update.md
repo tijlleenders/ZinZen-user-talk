@@ -42,6 +42,7 @@ Very handy for a shopping 🛒 or a holiday packing list!✈️🌴⛱️
   - Made time constraints after_time and before_time work.
   - Made time constraint day of the week (Mondays, Tuesdays, etc) work.
   - Removed the unwrap() statements. Created an Error type that we'll use going forward to handle various error conditions.
+  - Made 'sprinkling' a multi-hour task over multiple slots possible to fill up gaps and do the maximum possible.
 - [Yohanes](https://github.com/Y0h4n3s) is sharing his Rust expertise with us to improve the scheduler. Welcome! 👐
 - ✨New screen designs✨ for improving the experience and sharing privately in the make...  
 - [Tushar](https://github.com/Tushar-4781) revamped the components for the new edit-in-place and add goals from archive/public without leaving the screen.
