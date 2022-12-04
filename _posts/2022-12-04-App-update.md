@@ -1,4 +1,4 @@
-October November update 
+October November update  
 New theme and more!
 [Read more...](https://blog.zinzen.me/2022/12/04/App-update.html)   
 
