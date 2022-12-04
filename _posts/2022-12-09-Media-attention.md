@@ -15,7 +15,8 @@ A dutch film maker <a href="https://www.dannysnoekvideografie.nl/" target="_blan
 
 
 ## Radio show
-Tijl was invited to talk about ZinZen on a local Radio station <a href="https://www.omroephw.nl/" target="_blank">Omroep Hoeksche Waard</a>.  
+Tijl was invited to talk about ZinZen on a local Radio station <a href="https://www.omroephw.nl/" target="_blank">Omroep Hoeksche Waard</a>. It was a lot of fun!  
+We've also learned a lot about how to improve the pitching of the app from this experience.  
 You can listen to the show till the 16th of December 2022 on <a href="https://www.omroephw.nl/spelers/radiospeler.php?programmaid=214&item=021220222000" target="_blank">this radio player</a>.  
 
 ## Wishing you all the best!
