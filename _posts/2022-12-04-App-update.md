@@ -15,11 +15,11 @@ We first set out to contract a veteran designer. Finding them was challenging. W
     
   In the mean time - through the process of making the design brief we had grown confident that we kind of knew what direction we wanted to go in. Inspired by nature, with its natural gradients, smooth lines and playful forms - we just went ahead and designed a new theme ourselves. There's always room for more improvements - but we think we've made huge progress in the look & feel of the app:  
 <img src="/img/new_theme_light.PNG" alt="new-theme-light" width="400"/>  
-<img src="/img/new_theme_timeline.PNG" alt="new-theme-light-timeline" width="400"/>  
-<img src="/img/new_theme_side_menu.PNG" alt="new-theme-light-side-menu" width="400"/>   
-<img src="/img/new_theme_light.PNG" alt="new-theme-light" width="400"/>  
-<img src="/img/new_theme_timeline.PNG" alt="new-theme-light-timeline" width="400"/>  
-<img src="/img/new_theme_side_menu.PNG" alt="new-theme-light-side-menu" width="400"/>  
+<img src="/img/new_theme_light_timeline.PNG" alt="new-theme-light-timeline" width="400"/>  
+<img src="/img/new_theme_light_side_menu.PNG" alt="new-theme-light-side-menu" width="400"/>   
+<img src="/img/new_theme_dark.PNG" alt="new-theme-dark" width="400"/>  
+<img src="/img/new_theme_dark_timeline.PNG" alt="new-theme-dark-timeline" width="400"/>  
+<img src="/img/new_theme_dark_side_menu.PNG" alt="new-theme-dark-side-menu" width="400"/>  
 
 - **New donation payment provider**  
 The previous payment provider included a default pre-set 15% tax. Through experience, we've noticed that this 'dark pattern' works: people unintentionally give away 15% of their donation to the payment provider. The new payment provider is not a saint - but at least it doesn't include this dark pattern.  
