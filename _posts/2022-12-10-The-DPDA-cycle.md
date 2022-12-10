@@ -6,7 +6,7 @@ Why we need DPDA - not PDCA...
 
 ## PDCA is for companies - not individuals
 
-The [Plan-Do-Check-Act/Adjust cycle](https://en.wikipedia.org/wiki/PDCA) assumes a pre-existing objective. It's a quality improvement management method for companies. Management will tell you what needs to be achieved - you just need to follow and improve the process and results. You can be creative in how to get there (if the company is so inclined) - but there is no room for creativeness in the goal setting itself. Management will create the objectives.  
+The [Plan-Do-Check-Act/Adjust cycle](https://en.wikipedia.org/wiki/PDCA) assumes a pre-existing objective. It's a quality improvement management method for companies. Management will tell you what needs to be achieved - you just need to follow. Improve the process so that targets are hit. You can be creative in how to get there (if the company is so inclined) - but there is no room for creativeness in the goal setting itself. Management will create the objectives.  
 This is ill-suited for individuals who need to set their own goals.
 
 
