@@ -1,6 +1,6 @@
 Dream-Plan-Do-Accept for individuals  
 Why we need DPDA - not PDCA...   
-[Read more...](https://blog.zinzen.me/2022/12/10/The-DPRA-cycle.html)   
+[Read more...](https://blog.zinzen.me/2022/12/10/The-DPDA-cycle.html)   
 
 @All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
 
