@@ -25,7 +25,7 @@ When your calendar says it's time to take the first step... do it!
 You can postpone a few times if it's inconvenient - but if you really want to get closer to your dream ... you need action or you're giving up on yourself. Scheduling on the calendar is a promise to yourself.   
 This can be scary. Baby steps.  
 ### Accept  
-Don't live in your own world. When taking action, observe how the world around you reacts. Take it in without judgement. Accept that through how people and the world reacts - you are getting feedback. Your plans might be based on wrong assumptions. You might have even made the wrong assumptions about yourself too... Observe and incorporate what happens and adjust your dreams and plans accordingly. When thing go well, enjoy it. When things don't, enjoy the learnings and the knowledge that you're getting another step closer to your dreams.
+Don't live in your own world. When taking action, observe how the world around you reacts. Take it in without judgement. Accept that through how people and the world reacts - you are getting feedback. Your plans might be based on wrong assumptions. You might have even made the wrong assumptions about yourself too... Listen and accept feelings - even if you view them as negative feelings. Lean into them and experience them fully instead of trying to hide and minimize them with your mind. Feelings are a message from your unconscious self. Listen to them. Observe and incorporate what happens and adjust your dreams and plans accordingly. When thing go well, enjoy it. When things don't, enjoy the learnings and the knowledge that you're getting another step closer to your dreams.
 
 
 
