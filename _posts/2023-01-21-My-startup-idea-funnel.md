@@ -87,7 +87,7 @@ Huge amount of capital is needed.
 You can't do anything with a small amount of money.
 No return (NPV < 0)
 
-### Is it an 'all-or-nothing' product?
+### Is it more than an 'all-or-nothing' product?
 No interim product or profit till you get BIG, everybody changes and you survive competition.
 
 ### Do you have the right team?  
