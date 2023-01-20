@@ -49,10 +49,10 @@ Are you hoping to be acquired? Why can't they just kill you?
 Don't believe everyone is a customer... it's not true.  
 Usually there is only a nitch that will actually buy.
   
-### Are you uncoachable?  
-Un-coachable (I'm doing it my way).  
-Blinded by love (don't care about other ideas).  
-Broken bridge (you don't understand).  
+### Are you coachable?  
+...or un-coachable (I'm doing it my way)  
+...or blinded by love (don't care about other ideas)  
+...or a broken bridge (you don't understand).  
    
 ### Have you spent time on all aspects?  
 How many hours did they spend on different aspects?  
