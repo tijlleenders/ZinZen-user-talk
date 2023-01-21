@@ -1,6 +1,6 @@
 My startup idea funnel    
 Single out good idea's fast...   
-[Read more...](https://blog.zinzen.me/2023/01/21/Startup-barriers.html)   
+[Read more...](https://blog.zinzen.me/2023/01/21/My-startup-idea-funnel.html)   
 
 @All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
 
