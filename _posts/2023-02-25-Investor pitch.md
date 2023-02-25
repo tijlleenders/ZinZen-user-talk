@@ -10,7 +10,7 @@ Last week I gave the following [60 second pitch](https://ZinZen.me/invest) to th
 - Jeroen van Doornik from [Pacenotes Venture Capital](http://pacenotes.vc/)  
 - Liduina Hammer from [Innovation Quarter](https://www.innovationquarter.nl/en/)
 - Martin Luxemburg from [Unknown Group](https://www.unknowngroup.com/)
-- Someone from [Graduate Entrepreneuer](http://graduate.nl/)
+- Reinier Meurs from [Graduate Entrepreneuer](http://graduate.nl/)
 - Vadym Antsyferov as Angel Investor
 
 The conclusion is that without traction - there is no interest.
