@@ -16,7 +16,7 @@ Last week I gave the following [60 second pitch](https://ZinZen.me/invest) to th
 The conclusion is that without traction - there is no interest.
 
 Here's a picture of me pitching.  
-<img src="/img/investor_pitch_event.jpg" alt="pitch_photo" width="400"/>  
+<img src="/img/pitch_photo.jpg" alt="pitch_photo" width="400"/>  
 
 ## Wishing you all the best!
 <br />
