@@ -30,7 +30,7 @@ Setting up a sharing relationship initially:
 <img src="/img/share_with_partner_2.gif" alt="share-with-partner-2" width="400"/> 
 
   Accepting to collaborate on a goal:  
-<img src="/img/collaboration.gif" alt="collaboration" width="400"/> 
+<img src="/img/collaborate.gif" alt="collaborate" width="400"/> 
 
   Getting updates:  
   <img src="/img/collaboration_update.gif" alt="collaboration-updates" width="400"/> 
@@ -41,7 +41,7 @@ Public groups allow anonymous sharing of ideas around a goal:
 
 - **Readable header**  
 We've listened to your feedback. A new header menu to replace the sidebar - completely in the new theme we implemented in November 2022, making it clear what icons mean - and which one is selected:  
-<img src="/img/new_header.PNG" alt="new-header" width="400"/>  
+<img src="/img/new_header.png" alt="new-header" width="400"/>  
 
 - **Archive goals with a sound** 
 A few people told us they particularly enjoy the 'complete' sound when ticking off tasks in other tools. We now have this too! ... You can turn it off in the menu.
