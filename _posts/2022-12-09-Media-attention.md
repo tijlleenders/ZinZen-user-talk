@@ -2,7 +2,7 @@ ZinZen is getting noticed!
 Newspaper, movie and radio show...   
 [Read more...](https://blog.zinzen.me/2022/12/09/Media-attention.html)   
 
-@All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## Newspaper
 
@@ -24,5 +24,5 @@ You can listen to the show till the 16th of December 2022 on <a href="https://ww
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

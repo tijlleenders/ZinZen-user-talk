@@ -2,7 +2,7 @@ Dream-Plan-Do-Accept for individuals
 Why we need DPDA - not PDCA...   
 [Read more...](https://blog.zinzen.me/2022/12/10/The-DPDA-cycle.html)   
 
-@All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## PDCA is for companies - not individuals
 
@@ -34,5 +34,5 @@ Don't live in your own world. When taking action, observe how the world around y
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

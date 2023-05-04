@@ -3,7 +3,7 @@ This is what happened the last month.
 [Read more...](https://blog.zinzen.me/2022/07/22/App-update.html)   
 
 @Testers: 🙏**THANK YOU**🙏 !  
-@All users: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All users: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## Visible updates 🎁🎁🎁
 - **My time page showing!**  
@@ -29,5 +29,5 @@ You can see your daily schedule - with a color-coded summary:
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

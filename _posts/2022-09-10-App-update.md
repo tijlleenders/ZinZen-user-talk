@@ -3,7 +3,7 @@ Summer vacation!
 [Read more...](https://blog.zinzen.me/2022/09/10/App-update.html)   
 
 @Testers: 🙏**THANK YOU**🙏 !  
-@All users: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All users: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## Visible updates 🎁🎁🎁
 - **Goal parser working**  
@@ -27,5 +27,5 @@ Summer vacation!
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

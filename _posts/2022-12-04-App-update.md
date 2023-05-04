@@ -3,7 +3,7 @@ New theme and more!
 [Read more...](https://blog.zinzen.me/2022/12/04/App-update.html)   
 
 @Testers: 🙏**THANK YOU**🙏 !  
-@All users: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All users: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## Visible updates 🎁🎁🎁
 - **✨New theme✨**  
@@ -45,5 +45,5 @@ The previous payment provider included a default pre-set 15% tax. Through experi
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

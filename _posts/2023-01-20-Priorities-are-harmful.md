@@ -2,7 +2,7 @@ Priorities are harmful
 Do or don't...   
 [Read more...](https://blog.zinzen.me/2023/01/20/Priorities-are-harmful.html)   
 
-@All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## Priorities are harmful
 
@@ -32,5 +32,5 @@ There are only two priorities:
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

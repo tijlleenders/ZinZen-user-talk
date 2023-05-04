@@ -2,7 +2,7 @@ The future of work is personal.
 A radically different perspective.
 [Read more...](https://blog.zinzen.me/2022/10/08/The-future-of-work-is-personal.html)   
 
-@All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## First, what is 'work'?
 
@@ -33,5 +33,5 @@ The truth is : nobody has the answer. How many failures, blood, sweat, and tears
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

@@ -3,7 +3,7 @@ A lot happened...
 [Read more...](https://blog.zinzen.me/2023/03/25/App-update.html)   
 
 @Testers: 🙏**THANK YOU**🙏 !  
-@All users: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All users: Please use [the feedback page](https://zinzen.me/Feedback).
 
 Thanks [Tushar](https://github.com/Tushar-4781) for the many updates on the user interface - and for pulling an all-nighter 💪🏽 to save us just in time for a big corporate demo. Thanks also to [Mallika](https://github.com/mallikarai05) for her design work and [Mustafa](https://github.com/Mustafa-Eldeeb) for helping improve the Rust scheduler!
 
@@ -75,5 +75,5 @@ Import on the same or a different device. The restore will add all tasks, overri
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

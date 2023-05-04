@@ -2,7 +2,7 @@ My startup idea funnel
 Single out good idea's fast...   
 [Read more...](https://blog.zinzen.me/2023/01/21/My-startup-idea-funnel.html)   
 
-@All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## The idea funnel method
 
@@ -101,5 +101,5 @@ This is critical to get right. No man is an island and no bridge get built by on
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 

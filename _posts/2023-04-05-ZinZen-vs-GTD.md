@@ -2,7 +2,7 @@ ZinZen® versus Getting Things Done
 How ZinZen® improves the GTD® method...
 [Read more...](https://blog.zinzen.me/2023/04/05/ZinZen-vs-GTD.html)   
 
-@All: We welcome [Anonymous feedback ☝️🫢🤮😲😢🤬](https://zinzen.me/Home/ZinZen/Feedback)!
+@All: We welcome [Anonymous feedback ☝️🫢🤮😲😢🤬](https://zinzen.me/Feedback)!
 
 # GTD® just doesn't cut it  
 
@@ -19,7 +19,7 @@ That said, it just didn't work for me because:
   - building the reflexes takes ⏳time⏳  
 
 I suppose I'm not the only one?  
-Do [let me know](https://zinzen.me/Home/ZinZen/Feedback) if you disagree!
+Do [let me know](https://zinzen.me/Feedback) if you disagree!
 
 
 # Is ✨ZinZen®✨ better?  
@@ -75,7 +75,7 @@ ZinZen® is:
 
 Please help improve ZinZen®:  
 - [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
-- [Give us feedback](https://zinzen.me/Home/ZinZen/Feedback)
+- [Give us feedback](https://zinzen.me/Feedback)
 - Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
 - Tip friends about us!
 

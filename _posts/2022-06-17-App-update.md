@@ -3,7 +3,7 @@ This is what happened the last six weeks.
 [Read more...](https://blog.zinzen.me/2022/06/17/App-update.html)   
 
 @Testers: 🙏**THANK YOU**🙏 !  
-@All users: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All users: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## Visible updates 🎁🎁🎁
 - **Mood tracker working!**  
@@ -30,4 +30,4 @@ You can now add Feelings - including a note:
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).

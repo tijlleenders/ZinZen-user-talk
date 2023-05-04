@@ -2,7 +2,7 @@ Investor pitch
 Show traction first...   
 [Read more...](https://blog.zinzen.me/2023/02/25/Investor-pitch.html)   
 
-@All: Please use [the feedback page](https://zinzen.me/Home/ZinZen/Feedback).
+@All: Please use [the feedback page](https://zinzen.me/Feedback).
 
 ## Investor pitch
 
@@ -23,5 +23,5 @@ Here's a picture of me pitching.
 <br />
 
 Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Home/ZinZen/Feedback).
+Please [give us feedback](https://zinzen.me/Feedback).
 
