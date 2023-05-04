@@ -26,16 +26,16 @@ Do [let me know](https://zinzen.me/Home/ZinZen/Feedback) if you disagree!
 
 ## Yes, it's simpler!  
 ### 1. One-time setup
-- You make a time budget per area of your life: work, family, hobbies, etc
+- You make a time budget per area of your life: work, family, sports, hobbies, etc
   - How many hours per week?
   - Any particular preference for
     - days of the week?
     - times of the day?
     - number of time blocks? 
 - You organize your goals in a hierarchy
-  - Start with your big, important life goals
-  - Keep adding subgoals until you're satisfied.  
-  You don't _have_ to add detail if that's not your thing.
+  - Start with your life goals  
+  - It's _totally OK_ to stop here if having the big picture is enough for you.  
+  - If you like a little more detail, keep adding sub goals in as many levels of detail as you like.  
 
 ### 2. After that... when life happens:   
 
@@ -69,7 +69,7 @@ I'm pouring all of my time and savings into this project, and we have some open 
 ZinZen® is:
 - open source
 - not-for-profit
-  - a fully usable version runs for free on your phone - but we will charge for non-essential services that cost us money, like multi-device sync, to pay back loans we took for development of the app. We don't have shareholders that eternally extract value.  
+  - a fully usable version runs for free on your phone - but we will charge for non-essential services that cost us money, like multi-device sync. We'll add a little extra on top of the cost to pay back the loans we took for development of the app. We don't have shareholders that eternally extract value. We only have regular market loans that end once they're paid back.  
 - private by design
 - secure by design
 
