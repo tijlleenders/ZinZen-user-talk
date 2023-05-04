@@ -56,11 +56,12 @@ Here's a little demo of a standard setup:
 TODO
 
 ## Bonus: you get collaboration on goals!
-ZinZen® is designed for collaboration, with a twist:
-- it doesn't care about organizations  
+ZinZen® is designed for collaboration - but with a twist:  
+**We don't care about**  
+- **organizations**  
 You can work together with people from work, customers, your family, friends, all from your single tool.  
-- it doesn't care about identities  
-You can also share ideas anonymously with the world - and get idea's back. It doesn't matter who they are or where they are. If they have good suggestions for you ... why not?  
+- **identities**  
+You can share ideas anonymously with the world - and get idea's back. It doesn't matter who they are or where they are. If they have good suggestions for you ... why not?  
 
 ## What's the catch?
 ZinZen® isn't finished.  
