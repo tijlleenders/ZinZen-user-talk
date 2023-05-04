@@ -2,7 +2,7 @@ ZinZen® versus Getting Things Done
 How ZinZen® improves the GTD® method...
 [Read more...](https://blog.zinzen.me/2023/04/05/ZinZen-vs-GTD.html)   
 
-@All: [Anonymous feedback ☝️🫢🤮😲😢🤬](https://zinzen.me/Home/ZinZen/Feedback) welcome!
+@All: We welcome [Anonymous feedback ☝️🫢🤮😲😢🤬](https://zinzen.me/Home/ZinZen/Feedback)!
 
 # GTD® just doesn't cut it  
 
@@ -36,7 +36,7 @@ Do [let me know](https://zinzen.me/Home/ZinZen/Feedback) if you disagree!
   - Start with your big, important life goals
   - Keep adding subgoals until you're satisfied.  
   You don't _have_ to add detail if that's not your thing.
-  
+
 ### 2. After that... when life happens:   
 
 - Change your goals  
@@ -49,7 +49,7 @@ Do [let me know](https://zinzen.me/Home/ZinZen/Feedback) if you disagree!
 Really... _that's it_.  
 
 Here's a picture illustrating the differences:  
-<img src="/img/ZinZen-vs-GTD.png" alt="ZinZen-vs-GTD" width="400"/> 
+<img src="/img/ZinZen-vs-GTD.png" alt="ZinZen-vs-GTD" width="800"/> 
 
 ## Show - don't tell  
 Here's a little demo of a standard setup:  
@@ -64,7 +64,7 @@ You can also share ideas anonymously with the world - and get idea's back. It do
 
 ## What's the catch?
 ZinZen® isn't finished.  
-I'm pouring all of my time and savings into this project - but I need a little help!  
+I'm pouring all of my time and savings into this project, and we have some open source developers working for free, but we need a little extra [financial help](https://donate.stripe.com/6oE4jK1iPcPT1m89AA) to go faster!  
 
 ZinZen® is:
 - open source
@@ -73,7 +73,9 @@ ZinZen® is:
 - private by design
 - secure by design
 
-
-Have an idea to improve ZinZen®?  
-Please [donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA), [give us feedback](https://zinzen.me/Home/ZinZen/Feedback), or tip a friend about us!
+Please help improve ZinZen®:  
+- [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
+- [Give us feedback](https://zinzen.me/Home/ZinZen/Feedback)
+- Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
+- Tip friends about us!
 
