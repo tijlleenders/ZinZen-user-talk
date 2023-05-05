@@ -41,7 +41,7 @@ With a few exceptions, meeting minutes are a combination of:
 - never found  
 
 ### Meetings slow you down  
-It's hard to get the all these people together at the same time - and preferably in the same place. Two weeks go by ... then someone cancels or simply doesn't show up.  
+It's hard to get the all these people together at the same time - and preferably in the same place. Two weeks go by ... then someone shows up late, in the wrong place, or not at all.  
 
 ### Bottom line
 If you need meetings - you're doing it wrong. 
