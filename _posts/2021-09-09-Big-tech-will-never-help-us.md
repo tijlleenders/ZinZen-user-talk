@@ -21,7 +21,7 @@ Hopefully, this will get us to open standards for decentrally defining, sharing 
 As individuals - and as a species!
 
 
-Please help improve ZinZen®:  
+Please help improve [ZinZen](https://zinzen.me)®:  
 - [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
 - [Give us feedback](https://zinzen.me/Feedback)
 - Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  

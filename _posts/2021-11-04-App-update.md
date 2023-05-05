@@ -40,7 +40,7 @@ It has garbage collection. C & Rust don't.
 ```rust_developers.count += 1```  
 ```++``` can be confusing and is not supported by Rust. 😄
 
-Please help improve ZinZen®:  
+Please help improve [ZinZen](https://zinzen.me)®:  
 - [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
 - [Give us feedback](https://zinzen.me/Feedback)
 - Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  

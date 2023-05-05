@@ -41,7 +41,7 @@ Not on weekends? Just type 'not on weekends' or 'except weekends' and click to c
 | zz          | ZinZen® actions like 'Move here', 'Move to', 'Share', etc              |
 
 
-Please help improve ZinZen®:  
+Please help improve [ZinZen](https://zinzen.me)®:  
 - [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
 - [Give us feedback](https://zinzen.me/Feedback)
 - Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
