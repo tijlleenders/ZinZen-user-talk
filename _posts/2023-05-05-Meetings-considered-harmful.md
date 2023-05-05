@@ -25,12 +25,12 @@ At work, _which purpose is that again_?
 **Work decisions are made by the _one_ person responsible**. Giving your opinion to that person doesn't require a meeting. A 'group decision' also does not require a meeting - only a vote per person delivered in whatever way is convenient for them.  
 #### 4. Improve relationships, creativity and innovation
 _Seriously?_  
-Let's just have fun!
+Let's just forget our worker hats have fun together as people!
 
 ### Meetings are barbaric  
-Meetings bring out our 'animal reflexes'.  
-It's a place for communicating hierarchy where there shouldn't be any.  
-Those who talk - shout. Those who don't - suffer.
+Ok, ok. I'm exaggerating a little. But big meetings do bring out our 'animal reflexes'.  
+It's a place for communicating hierarchy - when, in my opinion, there shouldn't be any.  
+Those who talk - shout. Those who don't - suffer. 
 
 ### Meetings don't get documented  
 With a few exceptions, meeting minutes are a combination of:
