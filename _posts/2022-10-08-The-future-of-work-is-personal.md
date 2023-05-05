@@ -32,6 +32,9 @@ The truth is : nobody has the answer. How many failures, blood, sweat, and tears
 <br />
 <br />
 
-Have an idea to improve ZinZen®?  
-Please [give us feedback](https://zinzen.me/Feedback).
+Please help improve [ZinZen](https://zinzen.me)®:  
+- [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
+- [Give us feedback](https://zinzen.me/Feedback)
+- Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
+- Tip friends about us!
 
