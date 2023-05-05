@@ -54,7 +54,7 @@ This post is part of a series:
 - [Priorities considered harmful](https://blog.zinzen.me/2023/01/20/Priorities-considered-harmful.html)   
 <br />
 
-Please help improve ZinZen®:  
+Please help improve [ZinZen](https://zinzen.me)®:  
 - [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
 - [Give us feedback](https://zinzen.me/Feedback)
 - Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
