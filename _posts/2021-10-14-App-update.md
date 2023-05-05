@@ -26,5 +26,8 @@ It doesn't change the loading time, but makes the wait less annoying / obvious.
 This will not improve the app as of today, but will make anything we do from here more effective and efficient.
 
 
-Have an idea to improve ZinZen®?  
-Please [contact us](https://zinzen.me/contact.html).
+Please help improve ZinZen®:  
+- [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
+- [Give us feedback](https://zinzen.me/Feedback)
+- Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
+- Tip friends about us!

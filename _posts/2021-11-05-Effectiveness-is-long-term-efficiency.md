@@ -11,5 +11,8 @@ ZinZen® doesn't have all the facts - but we're doing it. We don't have the maps
 ZinZen® aims to catalyze individual purpose. Through individual purpose - we'll support human purpose.  
 Expect surprising progress 📈😮 towards purpose - every quarter.
 
-Have an idea to improve ZinZen®?  
-Please [contact us](https://zinzen.me/contact.html).
+Please help improve ZinZen®:  
+- [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
+- [Give us feedback](https://zinzen.me/Feedback)
+- Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
+- Tip friends about us!

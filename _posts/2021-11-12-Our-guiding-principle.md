@@ -35,8 +35,11 @@ Here's a quick summary:
 These principles will be broken down into concrete actions 💪 using the ZinZen® methodology.  
 Everything will be available online - in the open. 🤗
 
-Have an idea to improve ZinZen®?  
-Please [contact us](https://zinzen.me/contact.html).
+Please help improve ZinZen®:  
+- [Donate](https://donate.stripe.com/6oE4jK1iPcPT1m89AA)
+- [Give us feedback](https://zinzen.me/Feedback)
+- Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
+- Tip friends about us!
 <br />
 <br />
 PS: The Digital Development Principles are [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) licensed.
