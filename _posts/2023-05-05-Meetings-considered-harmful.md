@@ -20,7 +20,7 @@ At work, _which purpose is that again_?
 #### 1. Present something  
 **Presenting is best done in a blog, podcast or vlog.** Unlike a meeting - they are asynchronous and reusable. It takes a bit of time to get right - but at least you're not wasting _a multiple_ of that time delivering a confusing message to a big group. You can also safely collect and integrate feedback from a few people first - then progressively increase the group size.  
 #### 2. Discuss something  
-**Discussing is a means to an end** - not a purpose in itself. If you want clarification on something that can't be answered in _a single_ message or a 2-minute chat - it's better to have a discussion with _exactly_ three people. One asks the questions, the other explains, the third observes - and intervenes if the discussion repeats itself or gets side-tracked. Make sure you ask the person with the authority to explain.  
+**Discussing is a means to an end** - not a purpose in itself. If you want clarification on something that can't be answered in _a single_ message or a 2-minute voice chat - it's better to have a discussion with _exactly_ three people. One asks the questions, the other explains, the third observes - and intervenes if the discussion repeats itself or gets side-tracked. Make sure you ask the person with the authority to explain.  
 #### 3. Decide something  
 **Work decisions are made by the _one_ person responsible**. Giving your opinion to the person in charge of a certain decision doesn't require a meeting. A 'group decision' also does not require a meeting - only a vote per person delivered in whatever way is convenient for them.  
 #### 4. Improve relationships, creativity and innovation
