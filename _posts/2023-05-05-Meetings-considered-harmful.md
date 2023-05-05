@@ -36,6 +36,7 @@ Those who talk - shout. Those who don't - suffer.
 With a few exceptions, meeting minutes are a combination of:
 - never read
 - never accurate
+- never trusted
 - never adapted to the target audience
 - never found  
 
