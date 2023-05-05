@@ -20,8 +20,9 @@ So then what happens to the stuff that's only urgent, or long-term but important
 
 ### ZinZen®'s approach to priorities  
 There are only two priorities:
-- I'll do this - and time gets blocked according to how urgent it is
-- I won't do this - and you remove the goal
+- I'll do this  
+Block time on my calendar whenever - but before the deadline.  
+- I won't do this - remove this goal from my todo's  
   
 
 ## Wishing you all the best!
