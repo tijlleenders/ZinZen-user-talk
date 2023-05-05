@@ -22,7 +22,7 @@ At work, _which purpose is that again_?
 #### 2. Discuss something  
 **Discussing is a means to an end** - not a purpose in itself. If you want clarification on something that can't be answered in _a single_ message or a 2-minute voice chat - it's better to have a discussion with _exactly_ three people. One asks the questions, the other explains, the third observes - and intervenes if the discussion repeats itself or gets side-tracked. Make sure you ask the person with the authority to explain.  
 #### 3. Decide something  
-**Work decisions are made by the _one_ person responsible**. Giving your opinion to the person in charge of a certain decision doesn't require a meeting. A 'group decision' also does not require a meeting - only a vote per person delivered in whatever way is convenient for them.  
+**Work decisions are made by the _one_ person responsible**. Giving your opinion to that person doesn't require a meeting. A 'group decision' also does not require a meeting - only a vote per person delivered in whatever way is convenient for them.  
 #### 4. Improve relationships, creativity and innovation
 _Seriously?_  
 Let's just have fun!
