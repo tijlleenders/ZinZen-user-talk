@@ -19,10 +19,11 @@ Should all 'high priority' stuff be urgent **_as well as_** important? High prio
 So then what happens to the stuff that's only urgent, or long-term but important? Should you never do those? Do we let them age and/or slowly increase their importance until they become urgent and important? Does this mean we are always firefighting? How can we ever be in a 'good' place and feel 'in control' this way?
 
 ### ZinZen®'s approach to priorities  
-There are only two priorities:
-- I'll do this  
+There are **only _two_ priorities**:
+- **I'll do this**  
 Block time on my calendar whenever - but before the deadline.  
-- I won't do this - remove this goal from my todo's  
+- **I won't do this**  
+Remove this goal from my todo's.  
   
 
 ## Wishing you all the best!
