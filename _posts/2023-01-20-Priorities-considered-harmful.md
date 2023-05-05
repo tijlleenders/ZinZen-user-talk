@@ -1,18 +1,15 @@
-Priorities are harmful  
+Priorities considered harmful  
 Do or don't...   
-[Read more...](https://blog.zinzen.me/2023/01/20/Priorities-are-harmful.html)   
+[Read more...](https://blog.zinzen.me/2023/01/20/Priorities-considered-harmful.html)   
 
 @All: Please use [the feedback page](https://zinzen.me/Feedback).
 
-## Priorities are harmful
+## Priorities considered harmful
 
 "Will you implement low/medium/high priorities?", people ask us.  
 Even though all the other apps do it - ZinZen® won't - and for good reason.  
   
 **Why?**
-
-**Priorities are harmful**.  
-Here's why:
 
 ### Priorities hide the hard truth from you - till it's too late  
 Setting priorities doesn't tell you what is realistic. It is mostly wishful thinking. Just because you mark something 'high prio' doesn't mean it will get done. If you have enough high priorities you'll eventually fail to meet your own high standards. This also 'crowds out' medium priorities. Low priorities, at this point, are then just pointless. Remove them from your list as unrealistic. But how many of your medium and high priority goals are also unrealistic? No way to know... All you have is ambition... and eventually - disappointment.
@@ -30,6 +27,10 @@ There are only two priorities:
 ## Wishing you all the best!
 <br />
 <br />
+
+This post is part of a series:  
+- [Meetings considered harmful](https://blog.zinzen.me/2023/05/05/Meetings-considered-harmful.html)  
+
 
 Have an idea to improve ZinZen®?  
 Please [give us feedback](https://zinzen.me/Feedback).
