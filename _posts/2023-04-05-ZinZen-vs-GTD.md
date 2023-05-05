@@ -63,6 +63,9 @@ You can work together with people from work, customers, your family, friends, al
 - **identities**  
 You can share ideas anonymously with the world - and get idea's back. It doesn't matter who they are or where they are. If they have good suggestions for you ... why not?  
 
+## Bonus 2: one overview
+No more manual moves between projects, area's of responsibility and someday/maybe. Everything is in one place - where you can find it intuitively using the single hierarchy.  
+
 ## What's the catch?
 ZinZen® isn't finished.  
 I'm pouring all of my time and savings into this project, and we have some open source developers working for free, but we need a little extra [financial help](https://donate.stripe.com/6oE4jK1iPcPT1m89AA) to go faster!  
