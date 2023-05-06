@@ -62,4 +62,7 @@ Please help improve [ZinZen](https://zinzen.me)®:
 
 ## Comments  
 Post comments anonymously via [this feedback form](https://zinzen.me/Feedback)  
- 
+
+2023-05  **Anonymous1**  
+Interesting and totally agree.  
+I think a lot of meetings have more wasting time (which harmful) but not all of them. Specially for cases like learning, learn directly from teacher/specialist/scientist/etc is not just info; you will learn info, attitude, mentality, wisdom, etc. That can specially be a powerful tool for learning in physical meetings.  
