@@ -40,6 +40,9 @@ Please help improve [ZinZen](https://zinzen.me)®:
 - [Give us feedback](https://zinzen.me/Feedback)
 - Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
 - Tip friends about us!
+
+## Comments  
+Post comments anonymously via [this feedback form](https://zinzen.me/Feedback)  
 <br />
 <br />
 PS: The Digital Development Principles are [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) licensed.

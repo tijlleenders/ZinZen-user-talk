@@ -28,3 +28,6 @@ Please help improve [ZinZen](https://zinzen.me)®:
 - Contribute to the [GitHub project](https://github.com/tijlleenders/ZinZen) with code, feature requests, idea's, translations, documentation or artwork  
 - Tip friends about us!
 
+## Comments  
+Post comments anonymously via [this feedback form](https://zinzen.me/Feedback)  
+
