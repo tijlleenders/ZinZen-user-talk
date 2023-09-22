@@ -7,8 +7,12 @@ A lot happened...
 
 Thanks [Tushar](https://github.com/Tushar-4781) for ongoing efforts on the user experience and interface - as well as the work on the data model supporting a complex ecosystem of sharing goals. Thanks also to [Moaz](https://github.com/moaz-mokhtar) for the many updates to the scheduler.  
 A big welcome to [Kobe](https://github.com/kobe-reygel). His first big contributions:
-- restructured documentation
-- a 20 line change that increased the speed of the automagic calender 27 times!  
+- improved documentation and fixed publish to cargo
+- fixed a bunch of tests and wrong expectations
+- enabled error messages in browser
+- input for new api and some quick-fixes
+- fixed performance graph generator
+- made a 20 line change that increased the speed of the automagic calender 27 times!  
 
 Also thanks to [Vinay](https://github.com/vinaybadgujar102), [Saurabh](https://github.com/FullStackSorcerer), [Shubnam-Praj](https://github.com/Shubham-Praj), [Jason](https://github.com/jmorofsky), [Shahzaib-Iqbal-1057](https://github.com/Shahzaib-Iqbal-1057), [Mihai Alexandru Agache](https://github.com/MikeStrike101), [Gediminas Makutėnas](https://github.com/Senatrius), [Ziga Macele](https://github.com/zigamacele), [Abhijeet kumar](https://github.com/webAbhi), [Mariam Khatoon](https://github.com/Ktn-mariam), and [Haripriya](https://github.com/Hari-Bombon) for your contributions!
 
