@@ -29,9 +29,9 @@ After an experiment with public groups to allow anonymous sharing of ideas aroun
 - **Header simplified by moving navigation to a footer menu**  
  The header that replaced the side-menu a year ago is simplified by moving the three most-used options for navigating screens to the bottom, where they are easily accessible for mobile users' thumbs. It is also being simplified to only show three making it clear what icons mean - and which one is selected:  
  Old header: 
-<img src="/img/old_header.gif" alt="old-header" width="400"/>  
-New header: <img src="/img/new_header_2023-09.gif" alt="new-header" width="400"/>  
-New footer: <img src="/img/new_footer_2023-09.gif" alt="new-footer" width="400"/>  
+<img src="/img/old_header.png" alt="old-header" width="400"/>  
+New header: <img src="/img/new_header_2023-09.png" alt="new-header" width="400"/>  
+New footer: <img src="/img/new_footer_2023-09.png" alt="new-footer" width="400"/>  
 
 - **Moved goal actions to circle**  
 The sub-menu that expanded when pressing a goal was quite crowded. We've split the buttons into frequently used actions (that can by accessed by pressing the goal circle), and the infrequently used 'edit'. The same number of clicks - but a cleaner interface. 
@@ -54,7 +54,7 @@ Fixed a few bugs and the overall goal-sharing flow.
 Added a percentage done indicator <img src="/img/done_indicator.png" alt="done-indicator" width="400"/>  
 
 - **Switch language**
-Accidentally chosen the wrong interface language - or just curious? You can now change your interface language through the 'three dot' menu: <img src="/img/change_language.png" alt="change_language" width="400"/>  
+Accidentally chosen the wrong interface language - or just curious? You can now change your interface language through the 'three dot' menu: <img src="/img/change_language.gif" alt="change_language" width="400"/>  
 
 - **Drag 'n Drop**
 Not happy with the order of your goals? Just drag and drop!: <img src="/img/drag_and_drop.gif" alt="drag-and-drop" width="400
@@ -64,11 +64,11 @@ Not happy with the order of your goals? Just drag and drop!: <img src="/img/drag
 Improved the looks of the breadcrumb menu: <img src="/img/breadcrumb_2023-09.gif" alt="breadcrumb" width="400
 "/>  
 
-- **Subtexts for feelings show**
+- **Subtexts for feelings show**  
 <img src="/img/subtexts_for_feeling_context.png" alt="feeling-subtexts" width="400
 "/>  
 
-- **Show minutes as superscript**
+- **Show minutes as superscript**  
 <img src="/img/minutes_superscript.png" alt="superscript" width="400
 "/>  
  
