@@ -7,6 +7,7 @@ UI improvements...
 
 Special thanks to the community of contributors who volunteer their time and skills to ZinZen®.
   
+- [Tushar](https://github.com/Tushar-4781)
 - [Vinay](https://github.com/vinaybadgujar102) 
 - [siva9495](https://github.com/siva9495)
 - [lchauha](https://github.com/lchauha)
