@@ -11,7 +11,6 @@ Special thanks to the community of contributors who volunteer their time and ski
 - [Vinay](https://github.com/vinaybadgujar102) 
 - [siva9495](https://github.com/siva9495)
 - [lchauha](https://github.com/lchauha)
-- [Vinay](https://github.com/vinaybadgujar102)
 - [ThomasLagace](https://github.com/ThomasLagace)
 - [BogdanskiJ](https://github.com/BogdanskiJ)
 - [harith-hacky03](https://github.com/harith-hacky03)
