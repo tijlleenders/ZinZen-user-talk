@@ -8,7 +8,7 @@ It sounds simple...
 Domain Driven Design (DDD) is best suited to complex domains.
 I believe the TODO app is underestimated.
 
-Read the full story [here](../pdf/DDD a TODO app.pdf)
+Read the full story [here](../../../pdf/DDD a TODO app.pdf)
 
 <br />
   
