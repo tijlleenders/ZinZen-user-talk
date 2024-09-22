@@ -1,4 +1,4 @@
-Seven months update  
+[Seven months update  
 UI improvements...
 [Read more...](https://blog.zinzen.me/2024/09/15/App-update.html)   
 
@@ -27,19 +27,12 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
   - Scheduler can handle Goal.start < Calendar.start
   - Goals without a deadline no longer considered impossible
   - Still works if every time slot for a Goal overlaps with other Goals
-  - Handles tasksCompleted today to make sure they don't "shift" when input changes
-<video width="320" height="240" controls>
-  <source src="/img/Work_budget_with_subgoal.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
+    - Handles tasksCompleted today to make sure they don't "shift" when input changes
+      <img src="/img/Work_budget_with_subgoal.gif" alt="budget" width="400"/>
 
 - **Some more scheduler fanciness**
   - Postpone a Task from the UI
-<video width="320" height="240" controls>
-  <source src="/img/Reschedule.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
-
+    <img src="/img/Reschedule.gif" alt="reschedule" width="400"/>
 
 - **✨Basic version of hints✨**
   - Want something - but no idea on how to proceed?  
@@ -50,61 +43,37 @@ Your browser does not support the video tag.
 
 - **Instant Drag & Drop**
   - No need to 'loooong press' anymore to drag!
-<video width="320" height="240" controls>
-  <source src="/img/Drag.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
-
+    <img src="/img/Drag.gif" alt="drag" width="400"/>
 
 
 - **Add Phone number bookmarks**
   - Soft delete: no more accidentally deleting a whole tree of Goals forever...
-<video width="320" height="240" controls>
-  <source src="/img/Phone_links.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
+    <img src="/img/Phone_links.gif" alt="phone" width="400"/>
+
 
 - **Visual hint goal navigation**  
   - Added a visual hint to easily find the goal you're navigating to from MyTime screen. If it's in a long list this can be hard.
-<video width="320" height="240" controls>
-  <source src="/img/Goal_navigate_highlight.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
-
+    <img src="/img/Goal_navigate_highlight.gif" alt="navigate" width="400"/>
 
 - **Visual help in goal navigation**
   - Soft delete: no more accidentally deleting a whole tree of Goals forever...
-<video width="320" height="240" controls>
-  <source src="/img/Soft_delete.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
-
+    <img src="/img/Soft_delete.gif" alt="soft-delete" width="400"/>
 
 - **Partner mode**
   - More intuitive flow for a sharing, and seeing your Partner's goals
     <video width="320" height="240" controls>
-  <source src="/img/Sharing.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
+    <img src="/img/Sharing.gif" alt="sharing" width="400"/>
 
 - **🚤 Faster navigation 🏃‍♀️**
   - Navigate to subGoals with one click, instead of two.
   - The Goal summary, previously shown after first click, is now shown on the second screen.
-<video width="320" height="240" controls>
-  <source src="/img/Fast_navigation.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
-
-  
+    <img src="/img/Fast_navigation.gif" alt="fast-navigation" width="400"/>
 
 - **Strike through done goals**
   - Cross-out remains visible.  
     The Goal will only move to Trash once you navigate away.  
     This is much nicer for shopping lists. It avoids Goals jumping around in the list, and you get to enjoy the satisfaction of getting things done a bit longer :).
-<video width="320" height="240" controls>
-  <source src="/img/Cross_out.gif" type="video/gif">
-Your browser does not support the video tag.
-</video>
+    <img src="/img/Cross_out.gif" alt="cross-out" width="400"/>
 
 
 ## **Small improvements that make a big difference**
