@@ -27,8 +27,8 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
   - Scheduler can handle Goal.start < Calendar.start
   - Goals without a deadline no longer considered impossible
   - Still works if every time slot for a Goal overlaps with other Goals
-    - Handles tasksCompleted today to make sure they don't "shift" when input changes
-      <img src="/img/Work_budget_with_subgoal.gif" alt="budget" width="400"/>
+  - Handles tasksCompleted today to make sure they don't "shift" when input changes 
+  <img src="/img/Work_budget_with_subgoal.gif" alt="budget" width="400"/>
 
 - **Some more scheduler fanciness**
   - Postpone a Task from the UI
@@ -61,7 +61,6 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
 
 - **Partner mode**
   - More intuitive flow for a sharing, and seeing your Partner's goals
-    <video width="320" height="240" controls>
     <img src="/img/Sharing.gif" alt="sharing" width="400"/>
 
 - **🚤 Faster navigation 🏃‍♀️**
