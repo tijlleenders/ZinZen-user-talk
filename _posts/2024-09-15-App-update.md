@@ -29,14 +29,14 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
   - Still works if every time slot for a Goal overlaps with other Goals
   - Handles tasksCompleted today to make sure they don't "shift" when input changes
 <video width="320" height="240" controls>
-  <source src="/img/Work_budget_with_subgoal.mp4" type="video/mp4">
+  <source src="/img/Work_budget_with_subgoal.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
 - **Some more scheduler fanciness**
   - Postpone a Task from the UI
 <video width="320" height="240" controls>
-  <source src="/img/Reschedule.mp4" type="video/mp4">
+  <source src="/img/Reschedule.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
@@ -51,7 +51,7 @@ Your browser does not support the video tag.
 - **Instant Drag & Drop**
   - No need to 'loooong press' anymore to drag!
 <video width="320" height="240" controls>
-  <source src="/img/Drag.mp4" type="video/mp4">
+  <source src="/img/Drag.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
@@ -60,14 +60,14 @@ Your browser does not support the video tag.
 - **Add Phone number bookmarks**
   - Soft delete: no more accidentally deleting a whole tree of Goals forever...
 <video width="320" height="240" controls>
-  <source src="/img/Phone_links.mp4" type="video/mp4">
+  <source src="/img/Phone_links.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
 - **Visual hint goal navigation**  
   - Added a visual hint to easily find the goal you're navigating to from MyTime screen. If it's in a long list this can be hard.
 <video width="320" height="240" controls>
-  <source src="/img/Goal_navigate_highlight.mp4" type="video/mp4">
+  <source src="/img/Goal_navigate_highlight.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
@@ -75,7 +75,7 @@ Your browser does not support the video tag.
 - **Visual help in goal navigation**
   - Soft delete: no more accidentally deleting a whole tree of Goals forever...
 <video width="320" height="240" controls>
-  <source src="/img/Soft_delete.mp4" type="video/mp4">
+  <source src="/img/Soft_delete.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
@@ -83,7 +83,7 @@ Your browser does not support the video tag.
 - **Partner mode**
   - More intuitive flow for a sharing, and seeing your Partner's goals
     <video width="320" height="240" controls>
-  <source src="/img/Sharing.mp4" type="video/mp4">
+  <source src="/img/Sharing.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
@@ -91,7 +91,7 @@ Your browser does not support the video tag.
   - Navigate to subGoals with one click, instead of two.
   - The Goal summary, previously shown after first click, is now shown on the second screen.
 <video width="320" height="240" controls>
-  <source src="/img/Fast_navigation.mp4" type="video/mp4">
+  <source src="/img/Fast_navigation.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
@@ -102,7 +102,7 @@ Your browser does not support the video tag.
     The Goal will only move to Trash once you navigate away.  
     This is much nicer for shopping lists. It avoids Goals jumping around in the list, and you get to enjoy the satisfaction of getting things done a bit longer :).
 <video width="320" height="240" controls>
-  <source src="/img/Cross_out.mp4" type="video/mp4">
+  <source src="/img/Cross_out.gif" type="video/gif">
 Your browser does not support the video tag.
 </video>
 
