@@ -32,7 +32,7 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
 
 - **Some more scheduler fanciness**
   - Postpone a Task from the UI
-    <img src="/img/Reschedule.gif" alt="reschedule" width="400"/>
+  <img src="/img/Reschedule.gif" alt="reschedule" width="400"/>
 
 - **✨Basic version of hints✨**
   - Want something - but no idea on how to proceed?  
@@ -50,10 +50,9 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
   - Soft delete: no more accidentally deleting a whole tree of Goals forever...
     <img src="/img/Phone_links.gif" alt="phone" width="400"/>
 
-
 - **Visual hint goal navigation**  
   - Added a visual hint to easily find the goal you're navigating to from MyTime screen. If it's in a long list this can be hard.
-    <img src="/img/Goal_navigate_highlight.gif" alt="navigate" width="400"/>
+  <img src="/img/Goal_navigate_highlight.gif" alt="navigate" width="400"/>
 
 - **Visual help in goal navigation**
   - Soft delete: no more accidentally deleting a whole tree of Goals forever...
