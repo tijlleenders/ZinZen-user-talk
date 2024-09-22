@@ -1,4 +1,4 @@
-[Seven months update  
+Seven months update  
 UI improvements...
 [Read more...](https://blog.zinzen.me/2024/09/15/App-update.html)   
 
