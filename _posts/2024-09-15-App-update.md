@@ -31,8 +31,8 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
   <img src="/img/Work_budget_with_subgoal.gif" alt="budget" width="400"/>
 
 - **Some more scheduler fanciness**
-  - Postpone a Task from the UI
-  <img src="/img/Reschedule.gif" alt="reschedule" width="400"/>
+  - Postpone a Task from the UI  
+  <img src="/img/Reschedule.gif" alt="reschedule" width="400"/>  
 
 - **✨Basic version of hints✨**
   - Want something - but no idea on how to proceed?  
@@ -43,15 +43,15 @@ Announced in last update: the auto-scheduling killer feature is revealing itself
 
 - **Instant Drag & Drop**
   - No need to 'loooong press' anymore to drag!
-    <img src="/img/Drag.gif" alt="drag" width="400"/>
+  <img src="/img/Drag.gif" alt="drag" width="400"/>
 
 
 - **Add Phone number bookmarks**
   - Soft delete: no more accidentally deleting a whole tree of Goals forever...
-    <img src="/img/Phone_links.gif" alt="phone" width="400"/>
+  <img src="/img/Phone_links.gif" alt="phone" width="400"/>
 
 - **Visual hint goal navigation**  
-  - Added a visual hint to easily find the goal you're navigating to from MyTime screen. If it's in a long list this can be hard.
+  - Added a visual hint to easily find the goal you're navigating to from MyTime screen. If it's in a long list this can be hard.  
   <img src="/img/Goal_navigate_highlight.gif" alt="navigate" width="400"/>
 
 - **Visual help in goal navigation**
